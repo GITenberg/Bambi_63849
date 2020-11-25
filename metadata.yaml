@@ -1,0 +1,23 @@
+_repo: Bambi_63849
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Salten, Felix
+    birthdate: 1869
+    deathdate: 1945
+    gutenberg_agent_id: '35122'
+    url: http://www.gutenberg.org/2009/agents/35122
+    wikipedia: http://en.wikipedia.org/wiki/Felix_Salten
+description: ''
+gutenberg_issued: '2020-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '63849'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- GITenberg
+title: Bambi
+url: http://www.gutenberg.org/ebooks/63849
